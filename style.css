@@ -147,6 +147,11 @@ aside ul{
     list-style-position: inside;
     columns: 2;
 }
+aside ul li{
+    font-family: var(--font-destaque);
+    font-size: larger;
+    margin: 5px;
+}
 aside h3{
     font-weight: bold;
     background-color: var(--color05);
